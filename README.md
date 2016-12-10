@@ -1,4 +1,4 @@
 vinothgovindarajan.github.io
 ============================
 
-Personal Content.
+Personal Website.

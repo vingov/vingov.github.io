@@ -1,0 +1,8 @@
+title: Vinoth_Govindarajan();
+description: // web developer, a good one.
+google_analytics: UA-29871538-1
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions

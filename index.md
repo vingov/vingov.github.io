@@ -39,7 +39,7 @@
 * Business Management Application - My Excellent
 * Social Development Application with Ticketing System - Shoution
 * Project Planning Application for European Postal - BPost
-* Product Management Application for European Electroics Store
+* Product Management Application for European Electronics Store
 * RMA and Warranty Management Application for Sonim Technologies
 * Generic Test Framework for testing open source applications
 * Redbrick Build System to build business ready open source software stacks

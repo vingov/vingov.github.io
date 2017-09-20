@@ -26,8 +26,8 @@
 
 * [Walter Van Gastel](http://www.vangastel.be/ "[Opens in New Window] ")
 * [Woodix Toys](http://www.woodixtoys.com/en/home "[Opens in New Window] ")
-* [Teschner Bikes](http://www.teschnerbikes.com/ "[Opens in New Window] ")
-* UI Stream
+* Global ecommerece store with multiple currency and inventory management - Teschner Bikes. 
+* Ecommerce store for software downloads - UI Stream
 
 ## Web Applications
 
